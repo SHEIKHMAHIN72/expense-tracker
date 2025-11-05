@@ -1,0 +1,14 @@
+[
+    {
+        "name": "sugar",
+        "amount": 50.0
+    },
+    {
+        "name": "oil",
+        "amount": 60.0
+    },
+    {
+        "name": "ghee",
+        "amount": 99.0
+    }
+]
